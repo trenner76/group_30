@@ -1,0 +1,10 @@
+Summary
+ID
+Description
+Steps to reproduce
+Priority
+Severity
+Status
+Avtor
+Environment (окружение)
+Прикрепленные файлы
